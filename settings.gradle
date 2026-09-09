@@ -1,0 +1,2 @@
+rootProject.name = 'kaelorvyntitle'
+include 'paper', 'velocity', 'viaproxy'

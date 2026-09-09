@@ -1,0 +1,5 @@
+name: KaelorvynTitleViaProxy
+author: Kael
+version: 1.0.0
+main: com.kael.title.viaproxy.KaelorvynTitleViaProxy
+min-version: 3.4.8

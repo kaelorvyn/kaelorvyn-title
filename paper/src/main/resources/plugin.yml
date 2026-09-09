@@ -1,0 +1,6 @@
+name: KaelorvynTitle
+version: 1.0.0
+main: com.kael.title.paper.KaelorvynTitle
+api-version: '1.13'
+softdepend: [packetevents, SurvivalSplit, AuthMe]
+description: Kaelorvyn 跨服称号插件

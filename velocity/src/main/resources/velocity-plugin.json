@@ -1,0 +1,8 @@
+{
+  "id": "kaelorvyntitle",
+  "name": "KaelorvynTitle",
+  "version": "1.0.0",
+  "description": "Kaelorvyn 跨服称号插件",
+  "authors": ["Kael"],
+  "main": "com.kael.title.KaelorvynTitle"
+}

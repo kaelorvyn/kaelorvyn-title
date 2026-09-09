@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.kael'
+version = '1.0.0'
+
+dependencies {
+    compileOnly files('C:/Users/Administrator/Desktop/ViaProxy-3.4.8.jar')
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.release = 21
+}
+
+jar {
+    archiveFileName = 'KaelorvynTitle-ViaProxy-1.0.0.jar'
+}
